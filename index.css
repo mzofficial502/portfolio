@@ -547,7 +547,7 @@ ul a:hover {
 .send-message {
     width: 150px;
     height: 35px;
-    margin-left: 25px;
+    /* margin-left: 25px; */
     margin-top: 15px;
     border-radius: 8px;
     background: #081024;
