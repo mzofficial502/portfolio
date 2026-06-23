@@ -572,11 +572,12 @@ ul a:hover {
     background: #081024;
     display: flex;
     align-item: center;
+    padding-top: 10px;
 }
 
 .footer-text {
     font-size: 15px;
-    margin-left: 30%;
+    margin-left: 36%;
 }
 
 .foot-icon {
