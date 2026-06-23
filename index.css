@@ -571,12 +571,12 @@ ul a:hover {
     height: 55px;
     background: #081024;
     display: flex;
-    justify-content: space-between;
+    align-item: center;
 }
 
 .footer-text {
     font-size: 15px;
-    margin-left: 40%;
+    margin-left: 30%;
 }
 
 .foot-icon {
