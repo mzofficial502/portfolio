@@ -571,7 +571,7 @@ ul a:hover {
     height: 55px;
     background: #081024;
     display: flex;
-    align-items: center;
+    justify-content: space-between;
 }
 
 .footer-text {
